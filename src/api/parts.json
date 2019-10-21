@@ -1,0 +1,45 @@
+[{
+    "id": 1,
+    "name": "ceramic brake pads",
+    "price": 31.99,
+    "partNumber": "D866",
+    "location": "Front",
+    "imageUrl": "https://contentinfo.autozone.com/znetcs/product-info/en/US/epa/D866/image/2/"
+},
+{
+    "id": 2,
+    "name": "Bosch wiper blade",
+    "price": 29.99,
+    "partNumber": "EN26",
+    "location": "Front",
+    "imageUrl": "https://contentinfo.autozone.com/znetcs/product-info/en/US/bos/EN26/image/2/"
+
+},
+{
+    "id": 3,
+    "name": "Bosch spark plug",
+    "price": 7.49,
+    "partNumber": "9600",
+    "location": "Front",
+    "imageUrl": "https://contentinfo.autozone.com/znetcs/product-info/en/US/bos/9600/image/2/"
+
+},
+{
+    "id": 4,
+    "name": "Duralast Battery",
+    "price": 194.99,
+    "partNumber": "H8-AGM",
+    "location": "Front",
+    "imageUrl": "https://contentinfo.autozone.com/znetcs/product-info/en/US/jci/H8-AGM/image/2/"
+
+},
+{
+    "id": 5,
+    "name": "Duralast Alternator",
+    "price": 191.99,
+    "partNumber": "DLG1923-16-4",
+    "location": "Front",
+    "imageUrl": "https://contentinfo.autozone.com/znetcs/product-info/en/US/dur/DLG1923-16-4/image/2/"
+
+}
+]
